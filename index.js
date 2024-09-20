@@ -1,2 +1,2 @@
 // This is a new repo
-// This is feature 1(buttons)
+// This is feature 1(button)
